@@ -95,7 +95,7 @@ static const struct {
   { network_version_8,               2, 0, 1543540001 },
   { network_version_9_service_nodes, 3, 0, 1543540002 },
   { network_version_10_bulletproofs, 4, 0, 1543540003 },
-  { network_version_11_swarms,       5, 0, 1543540004 }, // 2018-12-13 23:30UTC
+  { network_version_11_swarms,       55567, 0, 1552669893 }, // Friday, March 15, 2019 5:11:33 PM
 };
 
 static const struct {
